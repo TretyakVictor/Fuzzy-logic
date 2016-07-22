@@ -1,0 +1,21 @@
+#graph {
+  width: 100%;
+  height: 500px;
+  background-color: #a7a7a7;
+}
+#legend {
+  display: inline-block;
+  background-color: #a7a7a7;
+}
+#graphDynamic {
+  /*width: 80%;*/
+  display: none;
+  height: 300px;
+  background-color: #a7a7a7;
+}
+#dataTable {
+  display: none;
+}
+#legend {
+  display: none;
+}
